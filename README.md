@@ -48,16 +48,6 @@ Actualmente estoy construyendo proyectos propios para mejorar mis habilidades de
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alber11&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Alber11" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alber11&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</div>
-
----
-
 ## 📫 Contacto y Redes
 
 - 📧 **Email:** [albermargar9@gmail.com](mailto:albermargar9@gmail.com)[cite: 3]
