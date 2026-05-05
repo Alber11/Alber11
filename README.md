@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Soy Alberto Martín
 
-<!--
-**Alber11/Alber11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador de Software | Doble Grado Web/Multiplataforma |
 
-Here are some ideas to get you started:
+Soy un desarrollador de software en formación con un perfil bilingüe y una sólida base técnica. Me especializo tanto en el desarrollo web (HTML/CSS/JS) como en la creación de aplicaciones multiplataforma orientadas a objetos con Java[cite: 3]. Me apasiona el aprendizaje autodidacta y tengo un enfoque orientado a la resolución de problemas y la eficiencia del código[cite: 3].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy construyendo proyectos propios para mejorar mis habilidades de despliegue, arquitectura cloud y gestión de bases de datos, con el objetivo de crear soluciones completas en entornos de producción[cite: 3].
+
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Estudiante de **Doble Grado en Desarrollo de Aplicaciones Web y Multiplataforma**[cite: 3].
+- ☁️ Certificado en **AWS Academy Graduate Cloud Foundations** (2026)[cite: 3].
+- 🔌 Certificado en **Networking Basics por Cisco** (2024)[cite: 3].
+- 📍 Basado en **Madrid, España**[cite: 3].
+- ⚙️ Experiencia en control de versiones, infraestructuras en la nube y despliegue de servidores mediante contenedores[cite: 3].
+- 💬 Buscando siempre nuevos retos tecnológicos para aplicar mis conocimientos de lógica de programación y bases de datos[cite: 3].
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Infraestructura y Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+## 💻 Proyectos Destacados
+
+* **[Servidores-Minecraft-con-Docker](https://github.com/Alber11/Servidores-Minercaft-con-Docker)**: Solución de despliegue integral para ejecutar y gestionar servidores de Minecraft personalizados utilizando contenedores Docker y Docker Compose[cite: 3].
+* **[checkyourmods-1.21.1](https://github.com/Alber11/checkyourmods-1.21.1)**: Herramienta especializada en Java para verificar y administrar modificaciones de Minecraft (versión 1.21.1), garantizando compatibilidad y estabilidad en el juego[cite: 3].
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alber11&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Alber11" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alber11&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</div>
+
+---
+
+## 📫 Contacto y Redes
+
+- 📧 **Email:** [albermargar9@gmail.com](mailto:albermargar9@gmail.com)[cite: 3]
+- 💼 **LinkedIn:** [Alberto Martín García](https://www.linkedin.com/in/alberto-mart%C3%ADn-garc%C3%ADa-0736a3218/)[cite: 3]
+- 🌐 **Portafolio:** *(Añade aquí el enlace a tu web cuando la despliegues)*
+
+<div align="center">
+  <i>"Cada proyecto es un paso más en el aprendizaje."</i>
+</div>
