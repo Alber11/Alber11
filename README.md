@@ -2,20 +2,20 @@
 
 ### Desarrollador de Software | Doble Grado Web/Multiplataforma |
 
-Soy un desarrollador de software en formación con un perfil bilingüe y una sólida base técnica. Me especializo tanto en el desarrollo web (HTML/CSS/JS) como en la creación de aplicaciones multiplataforma orientadas a objetos con Java[cite: 3]. Me apasiona el aprendizaje autodidacta y tengo un enfoque orientado a la resolución de problemas y la eficiencia del código[cite: 3].
+Soy un desarrollador de software en formación con un perfil bilingüe y una sólida base técnica. Me especializo tanto en el desarrollo web (HTML/CSS/JS) como en la creación de aplicaciones multiplataforma orientadas a objetos con Java. Me apasiona el aprendizaje autodidacta y tengo un enfoque orientado a la resolución de problemas y la eficiencia del código.
 
-Actualmente estoy construyendo proyectos propios para mejorar mis habilidades de despliegue, arquitectura cloud y gestión de bases de datos, con el objetivo de crear soluciones completas en entornos de producción[cite: 3].
+Actualmente estoy construyendo proyectos propios para mejorar mis habilidades de despliegue, arquitectura cloud y gestión de bases de datos, con el objetivo de crear soluciones completas en entornos de producción.
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de **Doble Grado en Desarrollo de Aplicaciones Web y Multiplataforma**[cite: 3].
-- ☁️ Certificado en **AWS Academy Graduate Cloud Foundations** (2026)[cite: 3].
-- 🔌 Certificado en **Networking Basics por Cisco** (2024)[cite: 3].
-- 📍 Basado en **Madrid, España**[cite: 3].
-- ⚙️ Experiencia en control de versiones, infraestructuras en la nube y despliegue de servidores mediante contenedores[cite: 3].
-- 💬 Buscando siempre nuevos retos tecnológicos para aplicar mis conocimientos de lógica de programación y bases de datos[cite: 3].
+- 🎓 Estudiante de **Doble Grado en Desarrollo de Aplicaciones Web y Multiplataforma**.
+- ☁️ Certificado en **AWS Academy Graduate Cloud Foundations** (2026).
+- 🔌 Certificado en **Networking Basics por Cisco** (2024).
+- 📍 Basado en **Madrid, España**.
+- ⚙️ Experiencia en control de versiones, infraestructuras en la nube y despliegue de servidores mediante contenedores.
+- 💬 Buscando siempre nuevos retos tecnológicos para aplicar mis conocimientos de lógica de programación y bases de datos.
 
 ---
 
@@ -43,8 +43,8 @@ Actualmente estoy construyendo proyectos propios para mejorar mis habilidades de
 
 ## 💻 Proyectos Destacados
 
-* **[Servidores-Minecraft-con-Docker](https://github.com/Alber11/Servidores-Minercaft-con-Docker)**: Solución de despliegue integral para ejecutar y gestionar servidores de Minecraft personalizados utilizando contenedores Docker y Docker Compose[cite: 3].
-* **[checkyourmods-1.21.1](https://github.com/Alber11/checkyourmods-1.21.1)**: Herramienta especializada en Java para verificar y administrar modificaciones de Minecraft (versión 1.21.1), garantizando compatibilidad y estabilidad en el juego[cite: 3].
+* **[Servidores-Minecraft-con-Docker](https://github.com/Alber11/Servidores-Minercaft-con-Docker)**: Solución de despliegue integral para ejecutar y gestionar servidores de Minecraft personalizados utilizando contenedores Docker y Docker Compose.
+* **[checkyourmods-1.21.1](https://github.com/Alber11/checkyourmods-1.21.1)**: Herramienta especializada en Java para verificar y administrar modificaciones de Minecraft (versión 1.21.1), garantizando compatibilidad y estabilidad en el juego.
 
 ---
 
