@@ -45,6 +45,7 @@ Actualmente estoy construyendo proyectos propios para mejorar mis habilidades de
 
 * **[Servidores-Minecraft-con-Docker](https://github.com/Alber11/Servidores-Minercaft-con-Docker)**: Solución de despliegue integral para ejecutar y gestionar servidores de Minecraft personalizados utilizando contenedores Docker y Docker Compose.
 * **[checkyourmods-1.21.1](https://github.com/Alber11/checkyourmods-1.21.1)**: Herramienta especializada en Java para verificar y administrar modificaciones de Minecraft (versión 1.21.1), garantizando compatibilidad y estabilidad en el juego.
+* **[DataClient-Insight](https://github.com/Alber11/DataClient-Insight/tree/master)** Aplicación de consola desarrollada en Java diseñada para la gestión, lectura y generación de informes a partir de datos de clientes almacenados en archivos de texto.
 
 ---
 
