@@ -12,7 +12,7 @@ Actualmente estoy construyendo proyectos propios para mejorar mis habilidades de
 
 - 🎓 Estudiante de **Doble Grado en Desarrollo de Aplicaciones Web y Multiplataforma**.
 - ☁️ Certificado en **AWS Academy Graduate Cloud Foundations** (2026).
-- 🔌 Certificado en **Networking Basics por Cisco** (2026).
+- 🔌 Certificados en **Networking Basics por Cisco** (2026).
 - 📍 Basado en **Madrid, España**.
 - ⚙️ Experiencia en control de versiones, infraestructuras en la nube y despliegue de servidores mediante contenedores.
 - 💬 Buscando siempre nuevos retos tecnológicos para aplicar mis conocimientos de lógica de programación y bases de datos.
